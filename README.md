@@ -17,4 +17,5 @@
 | [0178-rank-scores](https://github.com/chandrapal123-code/Leetcode_solution/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/chandrapal123-code/Leetcode_solution/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/chandrapal123-code/Leetcode_solution/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/chandrapal123-code/Leetcode_solution/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
