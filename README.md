@@ -40,4 +40,5 @@
 | [0619-biggest-single-number](https://github.com/chandrapal123-code/Leetcode_solution/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/chandrapal123-code/Leetcode_solution/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/chandrapal123-code/Leetcode_solution/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/chandrapal123-code/Leetcode_solution/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
